@@ -33,7 +33,7 @@ const Left = styled.div`
     border: 1px solid rgba(0, 0, 0, 0.18);
     vertical-align: middle;
     /* border-radius: 0.25rem; */
-    border-radius: 60px 0 0 0;
+    border-radius: 40px;
     max-width: 100%;
     width: 100%;
     height: 100%;
