@@ -20,7 +20,7 @@ const SocialIcons = () => {
         <FaLinkedin size={22} />
       </a>
       <a
-        href="https://facebook.com/salaar.khan.7927408"
+        href="https://twitter.com"
         target="_blank"
         rel="noopener noreferrer"
       >
