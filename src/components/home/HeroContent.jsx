@@ -24,11 +24,12 @@ const HeroContent = () => {
               startDelay={500}
               cursorColor="#F9FAFB"
               multiText={[
-                "Freelancer ",
-                "Web Developer ",
-                "Data Scientist ",
-                "Web Designer ",
-                "Ethical Hacker",
+                "Principal Software Engineer ",
+                "Data Engineer",
+                "System Analyst ",
+                "System Architect",
+                "Scrum Master",
+                "Quality Assurance Engineer",
               ]}
               multiTextDelay={1000}
               typeSpeed={40}
@@ -46,7 +47,7 @@ export default HeroContent;
 const HeroContentContainer = styled.div`
   display: flex;
   flex-direction: column;
-  margin-left: 281px;
+  margin-left: 235px;
   justify-content: center;
   height: 100%;
   margin-top: 50px;
