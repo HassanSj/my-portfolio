@@ -39,7 +39,7 @@ const AboutDetails = () => {
           </div>
           <div>
             <h4>Age:</h4>
-            <span> 22</span>
+            <span> 23</span>
           </div>
         </Left>
         <Right>
@@ -51,7 +51,7 @@ const AboutDetails = () => {
           </div>
           <div>
             <h4>From:</h4>
-            <span> Rawalpindi, Punjab, Pakistan</span>
+            <span> Islamabad, Pakistan</span>
           </div>
         </Right>
       </Top>

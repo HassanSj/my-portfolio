@@ -5,13 +5,14 @@ const AboutContentTypography = () => {
   return (
     <AboutContentTypographyContainer>
       <span>Who Am I?</span>
-      <h3>I'm Hassan Sajjad, a Full Stack Engineer</h3>
+      <h3>I'm Hassan Sajjad, a Senior Software Engineer</h3>
       <p>
-        I am a freelancer based in the Pakistan and I have been building
-        noteworthy websites and AI based applications for years, which comply
-        with the latest design trends. I help convert a vision and an idea into
-        meaningful and useful products. Having a sharp eye for product evolution
-        helps me prioritize tasks, iterate fast and deliver faster.
+        As a dedicated freelancer based in Pakistan, I specialize in creating
+        cutting-edge websites and AI-driven applications that adhere to the
+        latest industry trends. Over the years, I have successfully transformed
+        visions and ideas into impactful and functional digital products. My
+        expertise lies in blending innovation with usability, ensuring that
+        every project aligns seamlessly with client goals and audience needs.
       </p>
       <hr />
     </AboutContentTypographyContainer>

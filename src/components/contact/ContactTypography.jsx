@@ -10,7 +10,7 @@ const ContactTypography = () => {
       </div>
       <div>
         <h5>Location</h5>
-        <p>Westridge Rawalpindi Cantt Punjab, Pakistan</p>
+        <p>Street 7, I-10/3 Islamabad, 44000</p>
       </div>
       <div>
         <h5>Call Me</h5>

@@ -5,7 +5,7 @@ const VideoBackground = () => {
   return (
     <VideoBackgroundContainer>
       <video autoPlay muted loop playsInline preload="none">
-        <source src="assets/video/video.mp4" type="video/mp4" />
+        <source src="assets/video/video3.mp4" type="video/mp4" />
       </video>
       <VideoOverlay />
     </VideoBackgroundContainer>
