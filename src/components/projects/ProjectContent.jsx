@@ -14,7 +14,7 @@ import ProjectsSkeleton from "./ProjectsSkeleton";
 const ProjectContent = () => {
   const dispatch = useDispatch();
   const [currentPage, setCurrentPage] = useState(1);
-  const [REPOS_PER_PAGE] = useState(3);
+  const [REPOS_PER_PAGE] = useState(4);
 
   React.useEffect(() => {
     dispatch(fetchRepos());

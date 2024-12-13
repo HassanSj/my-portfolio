@@ -13,7 +13,7 @@ const AboutSocialIcons = () => {
         <FaGithub size={22} />
       </a>
       <a
-        href="https://www.linkedin.com/in/hassan-s-881607224/"
+        href="https://www.linkedin.com/in/hassan-sajjad-881607224/"
         target="_blank"
         rel="noopener noreferrer"
       >

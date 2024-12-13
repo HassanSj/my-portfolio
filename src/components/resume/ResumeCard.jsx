@@ -5,6 +5,7 @@ import Arrow from "../Arrow";
 const ResumeCard = ({
   title = "Title",
   info = "Info",
+  year= "Year",
   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
 }) => {
   return (
@@ -14,6 +15,7 @@ const ResumeCard = ({
         <h5>{title}</h5>
       </div>
       <h6>{info}</h6>
+      <p>{year}</p>
       <p>{description}</p>
     </ResumeCardContainer>
   );

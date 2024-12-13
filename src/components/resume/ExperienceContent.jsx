@@ -8,22 +8,30 @@ const ExperienceContent = () => {
     <ExperienceContentContainer>
       <span>Experience</span>
       <ResumeCardList>
-      <ResumeCard
-          title="Full Stack Developer"
-          info={`CyberSoftVantage / Jan 2023- Present`}
-          description="Completed final year project and many other neural network projects on fiverr using python"
+        <ResumeCard
+          title="Backend Engineer"
+          info="Veevo Tech · Part-time"
+          year="Sep 2023 - Mar 2024 · 7 months"
+          description="Islāmābād, Pakistan · On-site"
         />
         <ResumeCard
-          title="Junior Developer"
-          info={`BLS Solutions / Jul 2022- Dec 2022`}
-          description="Completed final year project and many other neural network projects on fiverr using python"
+          title="Associate Software Engineer"
+          info="CyberSoft Vantage - CSV · Full-time"
+          year="Jan 2023 - Jan 2024 · 1 year 1 month"
+          description="Islāmābād, Pakistan · On-site"
         />
         <ResumeCard
-          title="Development Intern ReactJS"
-          info={`Programin Studio / Jul 2021- Oct 2022`}
-          description="Completed final year project and many other neural network projects on fiverr using python"
+          title="Full Stack Engineer"
+          info="Triomatic Solutions · Full-time"
+          year="Apr 2021 - Mar 2023 · 2 years"
+          description="Islāmābād, Pakistan · Remote"
         />
-       
+        <ResumeCard
+          title="Engineering Intern"
+          info="British Council · Intern"
+          year="May 2019 - Sep 2019 · 5 months"
+          description="Islāmābād, Pakistan · On-site"
+        />
       </ResumeCardList>
     </ExperienceContentContainer>
   );

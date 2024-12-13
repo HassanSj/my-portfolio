@@ -7,12 +7,12 @@ const HeroContent = () => {
   return (
     <HeroContentContainer>
       <AnimationOnScroll animateIn="animate__fadeInDown" delay={400}>
-        <h1>Hi I'm Hassan Sajjad</h1>
+        <h1>Hassan Sajjad</h1>
       </AnimationOnScroll>
       <HeroContentAnimation>
         <AnimationOnScroll animateIn="animate__fadeInUp" delay={1100}>
           <h2>
-            A{" "}
+            I'm a{" "}
             <TypeWriterEffect
               textStyle={{
                 fontFamily: "Poppins",
@@ -26,9 +26,8 @@ const HeroContent = () => {
               multiText={[
                 "Freelancer ",
                 "Web Developer ",
-                "Data Scientist ",
                 "Web Designer ",
-                "Ethical Hacker",
+                "Dev Ops Engineer"
               ]}
               multiTextDelay={1000}
               typeSpeed={40}
@@ -46,13 +45,13 @@ export default HeroContent;
 const HeroContentContainer = styled.div`
   display: flex;
   flex-direction: column;
-  margin-left: 281px;
+  align-items: center;
   justify-content: center;
   height: 100%;
   margin-top: 50px;
   h1 {
     color: ${({ theme }) => theme.grey[100]};
-    font-size: 60px;
+    font-size: 70px;
     font-weight: 800;
     letter-spacing: 2px;
     margin-bottom: 25px;
