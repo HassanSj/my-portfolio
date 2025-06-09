@@ -56,7 +56,7 @@ const AboutDetails = () => {
         </Right>
       </Top>
       <Bottom>
-        <a href={`assets/cv/cv-${theme}.pdf`} download onClick={handleClick}>
+        <a href={`assets/cv/Hassan's Resume.pdf`} download onClick={handleClick}>
           <Button disabled={false}>Download CV</Button>
         </a>
         <span></span>
