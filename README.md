@@ -1,2 +1,2 @@
 # my-portfolio
-My Personal Portfolio Website
+My Simple and Minimilistic Portfolio
